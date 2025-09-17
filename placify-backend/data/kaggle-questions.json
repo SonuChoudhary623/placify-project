@@ -1,0 +1,1277 @@
+[
+  {
+    "id": 1,
+    "category": "Programming",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "What is the time complexity for accessing an element in an array by index?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "correct": 1,
+    "explanation": "Array elements are stored in contiguous memory, allowing direct access by index."
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "In a singly linked list, what is the time complexity to insert at the beginning?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "correct": 1,
+    "explanation": "Insertion at beginning requires only pointer manipulation, not traversal."
+  },
+  {
+    "id": 3,
+    "category": "Programming",
+    "topic": "Stacks",
+    "difficulty": "Easy",
+    "question": "Which principle does Stack follow?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Random",
+      "Priority"
+    ],
+    "correct": 1,
+    "explanation": "Stack follows Last In First Out (LIFO) principle."
+  },
+  {
+    "id": 4,
+    "category": "Programming",
+    "topic": "Queues",
+    "difficulty": "Easy",
+    "question": "Which principle does Queue follow?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Random",
+      "Priority"
+    ],
+    "correct": 0,
+    "explanation": "Queue follows First In First Out (FIFO) principle."
+  },
+  {
+    "id": 5,
+    "category": "Programming",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "question": "What is the maximum number of nodes in a binary tree of height h?",
+    "options": [
+      "2^h",
+      "2^(h+1) - 1",
+      "2^h - 1",
+      "2^(h-1)"
+    ],
+    "correct": 1,
+    "explanation": "A complete binary tree of height h has 2^(h+1) - 1 nodes maximum."
+  },
+  {
+    "id": 6,
+    "category": "Logical",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Find next: 1, 4, 9, 16, 25, ?",
+    "options": [
+      "30",
+      "36",
+      "35",
+      "49"
+    ],
+    "correct": 1,
+    "explanation": "Perfect squares: 1², 2², 3², 4², 5², 6² = 36"
+  },
+  {
+    "id": 7,
+    "category": "Logical",
+    "topic": "Analogies",
+    "difficulty": "Medium",
+    "question": "Pen : Writer :: Brush : ?",
+    "options": [
+      "Artist",
+      "Paint",
+      "Canvas",
+      "Color"
+    ],
+    "correct": 0,
+    "explanation": "A pen is the tool used by a writer, similarly a brush is used by an artist."
+  },
+  {
+    "id": 8,
+    "category": "Logical",
+    "topic": "Blood Relations",
+    "difficulty": "Hard",
+    "question": "A man pointing to a photo says \"He is the son of my father's only son\". Who is in the photo?",
+    "options": [
+      "His son",
+      "His father",
+      "Himself",
+      "His brother"
+    ],
+    "correct": 0,
+    "explanation": "My father's only son = myself. Son of myself = my son."
+  },
+  {
+    "id": 9,
+    "category": "Technical",
+    "topic": "Web Development",
+    "difficulty": "Easy",
+    "question": "HTML stands for?",
+    "options": [
+      "Hypertext Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Management Language",
+      "Hyperlink Text Management"
+    ],
+    "correct": 0,
+    "explanation": "HTML stands for Hypertext Markup Language, used for web page structure."
+  },
+  {
+    "id": 10,
+    "category": "Technical",
+    "topic": "Database",
+    "difficulty": "Medium",
+    "question": "Which SQL command is used to retrieve data?",
+    "options": [
+      "INSERT",
+      "SELECT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "correct": 1,
+    "explanation": "SELECT command is used to retrieve/query data from database tables."
+  },
+  {
+    "id": 11,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Easy",
+    "question": "Sorting question 1 - Easy level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Sorting concepts at Easy level."
+  },
+  {
+    "id": 12,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Easy",
+    "question": "Sorting question 2 - Easy level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Sorting concepts at Easy level."
+  },
+  {
+    "id": 13,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Easy",
+    "question": "Sorting question 3 - Easy level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Easy level."
+  },
+  {
+    "id": 14,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Easy",
+    "question": "Sorting question 4 - Easy level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Sorting concepts at Easy level."
+  },
+  {
+    "id": 15,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Easy",
+    "question": "Sorting question 5 - Easy level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Sorting concepts at Easy level."
+  },
+  {
+    "id": 16,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "question": "Sorting question 1 - Medium level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Medium level."
+  },
+  {
+    "id": 17,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "question": "Sorting question 2 - Medium level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Medium level."
+  },
+  {
+    "id": 18,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "question": "Sorting question 3 - Medium level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Medium level."
+  },
+  {
+    "id": 19,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "question": "Sorting question 4 - Medium level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Sorting concepts at Medium level."
+  },
+  {
+    "id": 20,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "question": "Sorting question 5 - Medium level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Sorting concepts at Medium level."
+  },
+  {
+    "id": 21,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Hard",
+    "question": "Sorting question 1 - Hard level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Hard level."
+  },
+  {
+    "id": 22,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Hard",
+    "question": "Sorting question 2 - Hard level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Hard level."
+  },
+  {
+    "id": 23,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Hard",
+    "question": "Sorting question 3 - Hard level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Sorting concepts at Hard level."
+  },
+  {
+    "id": 24,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Hard",
+    "question": "Sorting question 4 - Hard level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Sorting concepts at Hard level."
+  },
+  {
+    "id": 25,
+    "category": "Programming",
+    "topic": "Sorting",
+    "difficulty": "Hard",
+    "question": "Sorting question 5 - Hard level",
+    "options": [
+      "Option A for Sorting",
+      "Option B for Sorting",
+      "Option C for Sorting",
+      "Option D for Sorting"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Sorting concepts at Hard level."
+  },
+  {
+    "id": 26,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "question": "Searching question 1 - Easy level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Easy level."
+  },
+  {
+    "id": 27,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "question": "Searching question 2 - Easy level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Searching concepts at Easy level."
+  },
+  {
+    "id": 28,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "question": "Searching question 3 - Easy level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Searching concepts at Easy level."
+  },
+  {
+    "id": 29,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "question": "Searching question 4 - Easy level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Easy level."
+  },
+  {
+    "id": 30,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "question": "Searching question 5 - Easy level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Easy level."
+  },
+  {
+    "id": 31,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Medium",
+    "question": "Searching question 1 - Medium level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Medium level."
+  },
+  {
+    "id": 32,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Medium",
+    "question": "Searching question 2 - Medium level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Searching concepts at Medium level."
+  },
+  {
+    "id": 33,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Medium",
+    "question": "Searching question 3 - Medium level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Medium level."
+  },
+  {
+    "id": 34,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Medium",
+    "question": "Searching question 4 - Medium level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Medium level."
+  },
+  {
+    "id": 35,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Medium",
+    "question": "Searching question 5 - Medium level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Searching concepts at Medium level."
+  },
+  {
+    "id": 36,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Hard",
+    "question": "Searching question 1 - Hard level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Searching concepts at Hard level."
+  },
+  {
+    "id": 37,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Hard",
+    "question": "Searching question 2 - Hard level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Searching concepts at Hard level."
+  },
+  {
+    "id": 38,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Hard",
+    "question": "Searching question 3 - Hard level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Searching concepts at Hard level."
+  },
+  {
+    "id": 39,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Hard",
+    "question": "Searching question 4 - Hard level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Searching concepts at Hard level."
+  },
+  {
+    "id": 40,
+    "category": "Programming",
+    "topic": "Searching",
+    "difficulty": "Hard",
+    "question": "Searching question 5 - Hard level",
+    "options": [
+      "Option A for Searching",
+      "Option B for Searching",
+      "Option C for Searching",
+      "Option D for Searching"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Searching concepts at Hard level."
+  },
+  {
+    "id": 41,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Dynamic Programming question 1 - Easy level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Easy level."
+  },
+  {
+    "id": 42,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Dynamic Programming question 2 - Easy level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Easy level."
+  },
+  {
+    "id": 43,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Dynamic Programming question 3 - Easy level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Easy level."
+  },
+  {
+    "id": 44,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Dynamic Programming question 4 - Easy level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Easy level."
+  },
+  {
+    "id": 45,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Dynamic Programming question 5 - Easy level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Easy level."
+  },
+  {
+    "id": 46,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Dynamic Programming question 1 - Medium level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Medium level."
+  },
+  {
+    "id": 47,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Dynamic Programming question 2 - Medium level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Medium level."
+  },
+  {
+    "id": 48,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Dynamic Programming question 3 - Medium level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Medium level."
+  },
+  {
+    "id": 49,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Dynamic Programming question 4 - Medium level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Medium level."
+  },
+  {
+    "id": 50,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Dynamic Programming question 5 - Medium level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Medium level."
+  },
+  {
+    "id": 51,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Dynamic Programming question 1 - Hard level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Hard level."
+  },
+  {
+    "id": 52,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Dynamic Programming question 2 - Hard level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Hard level."
+  },
+  {
+    "id": 53,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Dynamic Programming question 3 - Hard level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Hard level."
+  },
+  {
+    "id": 54,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Dynamic Programming question 4 - Hard level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Hard level."
+  },
+  {
+    "id": 55,
+    "category": "Programming",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Dynamic Programming question 5 - Hard level",
+    "options": [
+      "Option A for Dynamic Programming",
+      "Option B for Dynamic Programming",
+      "Option C for Dynamic Programming",
+      "Option D for Dynamic Programming"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Dynamic Programming concepts at Hard level."
+  },
+  {
+    "id": 56,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Easy",
+    "question": "Greedy question 1 - Easy level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Greedy concepts at Easy level."
+  },
+  {
+    "id": 57,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Easy",
+    "question": "Greedy question 2 - Easy level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Greedy concepts at Easy level."
+  },
+  {
+    "id": 58,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Easy",
+    "question": "Greedy question 3 - Easy level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Greedy concepts at Easy level."
+  },
+  {
+    "id": 59,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Easy",
+    "question": "Greedy question 4 - Easy level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Easy level."
+  },
+  {
+    "id": 60,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Easy",
+    "question": "Greedy question 5 - Easy level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Easy level."
+  },
+  {
+    "id": 61,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "question": "Greedy question 1 - Medium level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Medium level."
+  },
+  {
+    "id": 62,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "question": "Greedy question 2 - Medium level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Greedy concepts at Medium level."
+  },
+  {
+    "id": 63,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "question": "Greedy question 3 - Medium level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Medium level."
+  },
+  {
+    "id": 64,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "question": "Greedy question 4 - Medium level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Medium level."
+  },
+  {
+    "id": 65,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "question": "Greedy question 5 - Medium level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Greedy concepts at Medium level."
+  },
+  {
+    "id": 66,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Hard",
+    "question": "Greedy question 1 - Hard level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Greedy concepts at Hard level."
+  },
+  {
+    "id": 67,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Hard",
+    "question": "Greedy question 2 - Hard level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Hard level."
+  },
+  {
+    "id": 68,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Hard",
+    "question": "Greedy question 3 - Hard level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Greedy concepts at Hard level."
+  },
+  {
+    "id": 69,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Hard",
+    "question": "Greedy question 4 - Hard level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Greedy concepts at Hard level."
+  },
+  {
+    "id": 70,
+    "category": "Programming",
+    "topic": "Greedy",
+    "difficulty": "Hard",
+    "question": "Greedy question 5 - Hard level",
+    "options": [
+      "Option A for Greedy",
+      "Option B for Greedy",
+      "Option C for Greedy",
+      "Option D for Greedy"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Greedy concepts at Hard level."
+  },
+  {
+    "id": 71,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Easy",
+    "question": "Graph Algorithms question 1 - Easy level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Easy level."
+  },
+  {
+    "id": 72,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Easy",
+    "question": "Graph Algorithms question 2 - Easy level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Easy level."
+  },
+  {
+    "id": 73,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Easy",
+    "question": "Graph Algorithms question 3 - Easy level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Easy level."
+  },
+  {
+    "id": 74,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Easy",
+    "question": "Graph Algorithms question 4 - Easy level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Easy level."
+  },
+  {
+    "id": 75,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Easy",
+    "question": "Graph Algorithms question 5 - Easy level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Easy level."
+  },
+  {
+    "id": 76,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Medium",
+    "question": "Graph Algorithms question 1 - Medium level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Medium level."
+  },
+  {
+    "id": 77,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Medium",
+    "question": "Graph Algorithms question 2 - Medium level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Medium level."
+  },
+  {
+    "id": 78,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Medium",
+    "question": "Graph Algorithms question 3 - Medium level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 3,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Medium level."
+  },
+  {
+    "id": 79,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Medium",
+    "question": "Graph Algorithms question 4 - Medium level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Medium level."
+  },
+  {
+    "id": 80,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Medium",
+    "question": "Graph Algorithms question 5 - Medium level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Medium level."
+  },
+  {
+    "id": 81,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Hard",
+    "question": "Graph Algorithms question 1 - Hard level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Hard level."
+  },
+  {
+    "id": 82,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Hard",
+    "question": "Graph Algorithms question 2 - Hard level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Hard level."
+  },
+  {
+    "id": 83,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Hard",
+    "question": "Graph Algorithms question 3 - Hard level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 0,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Hard level."
+  },
+  {
+    "id": 84,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Hard",
+    "question": "Graph Algorithms question 4 - Hard level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 1,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Hard level."
+  },
+  {
+    "id": 85,
+    "category": "Programming",
+    "topic": "Graph Algorithms",
+    "difficulty": "Hard",
+    "question": "Graph Algorithms question 5 - Hard level",
+    "options": [
+      "Option A for Graph Algorithms",
+      "Option B for Graph Algorithms",
+      "Option C for Graph Algorithms",
+      "Option D for Graph Algorithms"
+    ],
+    "correct": 2,
+    "explanation": "This tests your understanding of Graph Algorithms concepts at Hard level."
+  }
+]
